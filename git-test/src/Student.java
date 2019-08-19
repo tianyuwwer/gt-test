@@ -12,5 +12,7 @@ public class Student {
     public void test(){
          int i=0;
         System.out.println(i);
+
+        System.out.println("fs");
     }
 }
